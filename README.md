@@ -30,17 +30,17 @@ currently:   building Laurel — a tournament maker website
 
 | Vehicle | What it does | Engine |
 |---|---|---|
-| 🏆 [**Laurel**](https://github.com/sean259/Laurel) *(in the shop)* | A tournament maker website | TypeScript |
-| 🗺️ [**my-journey**](https://github.com/sean259/my-journey) | My journey | JavaScript |
-| 👤 [**Personal-Profile**](https://github.com/sean259/Personal-Profile) | My personal profile page | CSS |
+| 🗄️ [**OffArchive**](https://github.com/sean259/OffArchive) | Curated pre-loved marketplace for clothes, footwear and essentials in Cebu, with admin-reviewed listings and no fees | Astro · Supabase · Cloudflare Workers |
+| 🚌 [**my-journey**](https://github.com/sean259/my-journey) | My portfolio as a scroll-driven 3D story: a CRT boots up and you ride a jeepney to CIT-U | Three.js · GSAP · Vite |
 | 🚀 [**UConvert-IT**](https://u-convertit-frontend.vercel.app) | All-in-one writing toolkit: paraphrase, humanize, OCR, AI detection, grammar check, quiz maker | Web |
+| 🏆 [**Laurel**](https://github.com/sean259/Laurel) *(in the shop)* | A tournament maker website | TypeScript |
 | 🛵 **QuestGo** *(in the shop)* | Campus errand & task sharing with ratings and live runner GPS | Next.js · Firebase |
-| 🗄️ **OffArchive** | ADD A ONE-LINE DESCRIPTION | ADD TECH |
+| 👤 [**Personal-Profile**](https://github.com/sean259/Personal-Profile) | My personal profile page | HTML · CSS · JS |
 
 ### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,nextjs,firebase,git,github,vscode&perline=10" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,astro,nextjs,threejs,vite,supabase,firebase,cloudflare,git,github,vscode&perline=8" alt="Tech stack"/>
 </p>
 
 ### 📊 Dashboard

@@ -1,70 +1,130 @@
-# 🏎️ Welcome to My Garage
+<!--
+  SEAN LORICO — GITHUB PROFILE
+  Theme: Luxury Automotive / Motorsport Editorial
+  Palette: Black • Graphite • Silver • Racing Red
+-->
 
 <div align="center">
 
-# SEAN LORICO
-### `Developer | Automotive Enthusiast | Lifelong Learner`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:171717,100:303030&height=180&section=header&text=SEAN%20LORICO&fontSize=48&fontColor=F5F5F5&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%20%7C%20%20AUTOMOTIVE%20ENTHUSIAST&descSize=11&descAlignY=64&descColor=AAAAAA" width="100%"/>
 
-*Building ideas. Writing code. Enjoying the drive.*
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=flat-square&label=GARAGE+VISITORS)
+`ENGINEERED WITH PURPOSE.` &nbsp; `DRIVEN BY PASSION.`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-101010?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=555555&label=PROFILE+VISITS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-## 🏁 ABOUT ME
+## 01 / THE DRIVER
 
-```yaml
-Name: Sean Lorico
-Role: Aspiring Software Developer
-Location: Philippines
-Interests:
-  - Web Development
-  - Software Engineering
-  - UI/UX Design
-  - Automotive Culture
-Current Status: Always in the learning lane.
+A developer driven by curiosity, creativity, and the desire to build meaningful digital experiences.
+
+I enjoy exploring technology, developing applications, and turning ideas into functional products. Every project is another opportunity to refine my skills and push beyond what I already know.
+
+```text
+NAME             Sean Lorico
+OCCUPATION       Aspiring Software Developer
+BASED IN         Philippines
+FOCUS            Software & Web Development
+MINDSET          Learn. Build. Refine. Repeat.
 ```
 
-## 🔧 UNDER THE HOOD
+---
 
-**Languages & Technologies**
+## 02 / THE ENGINE ROOM
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+*The tools and technologies powering my work.*
 
-**Tools & Environment**
+**LANGUAGES**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs" />
+</p>
 
-## 🏎️ CURRENT GARAGE
+**FRAMEWORKS & DEVELOPMENT**
 
-| Project | Description | Status |
-|---|---|---|
-| Questgo | Web application project | In Development |
-| FlashLearn | Interactive flashcard application | Project |
-| Personal Portfolio | Showc
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
 
-<!--
-**sean259/sean259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TOOLS & ENVIRONMENT**
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,firebase" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 03 / THE GARAGE
+
+*Selected projects from my development journey.*
+
+| PROJECT | DESCRIPTION |
+|:---|:---|
+| **Questgo** | A web application built through collaboration and development |
+| **FlashLearn** | An interactive flashcard learning application |
+| **Portfolio** | A personal space showcasing my work and progress |
+
+<br/>
+
+<div align="center">
+
+[ VIEW ALL PROJECTS →](https://github.com/YOUR_USERNAME?tab=repositories)
+
+</div>
+
+---
+
+## 04 / PERFORMANCE DATA
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=999999&icon_color=B5B5B5&ring_color=9A9A9A" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E5E5E5&text_color=999999" />
+
+</div>
+
+---
+
+## 05 / THE PHILOSOPHY
+
+<div align="center">
+
+### "PRECISION IS NOT AN ACCIDENT."
+
+*Every line of code is an opportunity to improve.*
+
+<br/>
+
+`01` — Stay curious.
+
+`02` — Embrace the process.
+
+`03` — Build with intention.
+
+`04` — Never stop refining.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:171717,100:080808&height=100&section=footer" width="100%"/>
+
+**SEAN LORICO**
+
+<sub>BUILT WITH CURIOSITY. DRIVEN BY AMBITION.</sub>
+
+<sub>© 2026 — ALL SYSTEMS OPERATIONAL.</sub>
+
+</div>
